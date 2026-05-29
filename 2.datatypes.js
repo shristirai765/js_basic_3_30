@@ -8,6 +8,8 @@ let b = 345.455;
 
 //* string
 let c = "hello";
+// c[1] = "a";
+// c = "sjd";
 let d = "";
 
 //? template literal  => ``

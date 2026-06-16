@@ -1,6 +1,7 @@
 // console.log("Hello world");
 
-//! dynamic typed , interpreted & single threaded language
+//! dynamic typed , interpreted & single threaded language(single call stack(code execution))
+//since js is interpreted language semi colon is not strict cause it automatically assumes the end of line as it interprets line by line
 
 //? variables
 // console.log(23);

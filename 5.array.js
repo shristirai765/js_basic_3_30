@@ -21,8 +21,8 @@ numbers[1] = 20;
 //? adding new element
 //! from end
 //* arr_name.push(ele)
-// const res = numbers.push(80, 56, 7, 8);
-// console.log(res);
+const res = numbers.push(80, 56, 7, 8);
+console.log(res);
 
 //! from start
 //* arr_name.unshift(ele)

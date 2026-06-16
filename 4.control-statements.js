@@ -108,7 +108,9 @@ console.log("for loop");
 //   console.log(i);
 // }
 
-//* for-of
+//* for-of->behaves like foreach 
+// for...of: Supports break, continue, and return statements to stop the loop early.
+// forEach: Cannot be stopped early; it will always run through every single item
 
 //* for-in
 

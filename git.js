@@ -30,6 +30,7 @@
 //? local repo
 // local folder where git is initialized
 //? remote repo 
+// as a backup
 // github / git
 
 //! workflow of git
@@ -49,4 +50,14 @@
 //* git add .
 // . - current folder
 // .. - parent/ root
+
 //* git commit -m "<commit_message>" - for single
+
+//* git push origin <branch_name>
+
+//? remote repo
+//* git remote -v ->list remote repo
+//* git remote add origin <remote_repo_url>
+//* git remote remove origin
+
+// git le remote ra local ko latest changes herxa not working directory or local repo

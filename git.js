@@ -60,4 +60,10 @@
 //* git remote add origin <remote_repo_url>
 //* git remote remove origin
 
-// git le remote ra local ko latest changes herxa not working directory or local repo
+// push-remote ra local ko latest changes herxa not working directory or local repo
+// compares and add new changes only 
+//doesnt push all again and again 
+// same goes for commit too
+
+// to not track or hidden file
+// .gitignore

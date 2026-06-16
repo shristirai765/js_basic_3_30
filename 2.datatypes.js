@@ -13,6 +13,7 @@ let c = "hello";
 let d = "";
 
 //? template literal  => ``
+//for dynamic data lina
 
 let user = "John";
 // let e = `Hello  ${2 + 2}`;

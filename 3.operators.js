@@ -1,7 +1,7 @@
 //! operators
 
 // //* arithmetic operators
-// //? + , - , * , / , % , **
+// //? + , - , * , / , % , **->power
 // console.log(2 + 12);
 
 // let sum = 12 + 2;
@@ -55,10 +55,10 @@
 // //
 
 // console.log(false && "hello");
-
+// does not work like normal and operator , it return a value of the element  where the evaluation is stopped
 // let isAdmin = false;
 // let res = isAdmin && "Admin";
-// // console.log(res);
+// console.log(res);
 
 // x = "abc";
 // //* typeof

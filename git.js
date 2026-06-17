@@ -75,3 +75,4 @@
 //* git switch <branch_name>
 //* git merge <branch_name>
 
+//merge conflict : same file same line changes by different people or by own

@@ -73,4 +73,5 @@
 //* git branch <branch_name>
 // branch naya banuda completely work as a new no history of previous is recorded
 //* git switch <branch_name>
+//* git merge <branch_name>
 

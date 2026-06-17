@@ -71,6 +71,7 @@
 //! branch
 //* git branch
 //* git branch <branch_name>
+//* git branch <branch_name>
 // branch naya banuda completely work as a new no history of previous is recorded
 //* git switch <branch_name>
 //* git merge <branch_name>
@@ -79,3 +80,5 @@
 // same branch ma vako change - base or current change
 // incoming change - jun brnch bata ako
 // conflict resolve garesi commit garnu parxa but no need to add
+
+//* git stash

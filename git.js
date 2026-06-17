@@ -76,3 +76,6 @@
 //* git merge <branch_name>
 
 //merge conflict : same file same line changes by different people or by own
+// same branch ma vako change - base or current change
+// incoming change - jun brnch bata ako
+// conflict resolve garesi commit garnu parxa but no need to add

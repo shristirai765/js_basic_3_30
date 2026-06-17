@@ -71,9 +71,9 @@
 //! branch
 //* git branch
 //* git branch <branch_name>
-//* git branch <branch_name>
 // branch naya banuda completely work as a new no history of previous is recorded
 //* git switch <branch_name>
+//* git switch -c <branch_name> - to create and switch at the same time
 //* git merge <branch_name>
 
 //merge conflict : same file same line changes by different people or by own

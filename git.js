@@ -82,3 +82,18 @@
 // conflict resolve garesi commit garnu parxa but no need to add
 
 //* git stash
+// locally cache ma store 
+//certain kei time ko lagi store 
+// temporary storage
+
+//* git stash list
+//* git stash pop - back leuna
+
+//* git log - history
+// to exit - Q press
+//* git log --oneline
+
+// to add changes made in remote to local
+//* git pull
+
+//hfhfhf

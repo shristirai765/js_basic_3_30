@@ -111,3 +111,11 @@
 // main ma basera cherry_pick garne
 // for picking one of the commits 
 // commit hash can be taken from git log --oneline
+
+//* PR -> pull request
+
+//? main -> production 
+//? develop -> integration branch
+// develop ma merge garne if all good then merged with main
+//? hotfix -> emergency bug fix //hotfix/login
+//? feature ->   feature/login ->

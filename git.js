@@ -67,3 +67,10 @@
 
 // to not track or hidden file
 // .gitignore
+
+//! branch
+//* git branch
+//* git branch <branch_name>
+// branch naya banuda completely work as a new no history of previous is recorded
+//* git switch <branch_name>
+

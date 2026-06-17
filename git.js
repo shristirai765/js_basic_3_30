@@ -94,5 +94,20 @@
 //* git log --oneline
 
 // to add changes made in remote to local
-//* git pull
+//* git pull origin main
 
+//! rebase 
+
+// git rebase <branch_name>
+//latest state lai base banauna/ history rewrite
+// main: A-> B-> C-> D-> G-> H
+// feature:          D-> E-> F //merge
+// If we try to merge main and feature this time, merge conflict will emerge so rebase gives a new base completely
+// feature:          G'-> H' ->E-> F // rebase 
+//! cherry_pick <commit_hash>
+// main: A-> B-> C-> D
+// fix:          D-> E-> F-> G
+
+// main ma basera cherry_pick garne
+// for picking one of the commits 
+// commit hash can be taken from git log --oneline
